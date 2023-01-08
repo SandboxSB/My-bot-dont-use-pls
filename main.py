@@ -287,7 +287,7 @@ class CPEClient:
     packet_0x08_c_position_and_orientation        = Packet(packet_id=0x08, handler=packet_0x08_c_position_and_orientation_handler,        augment=UBYTE + SSHORT + SSHORT + SSHORT + UBYTE + UBYTE)
     packet_0x0d_c_message                         = Packet(packet_id=0x0d, handler=packet_0x0d_c_message_handler,                         augment=UBYTE + STRING)
 
-bot = CPEClient("Spaceland_bot1", "144.217.42.65", 25612)
+bot = CPEClient("SB_bot", "144.217.42.65", 25612)
 
 def packet_0x0d_s_message_handler(self, args):
     player_id, text = args
