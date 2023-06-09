@@ -28,3 +28,8 @@ In the order to run bots on minecraft classic servers Use replit or use an pytho
 **Spleef**
 
 **Say hi, goodbye to players.**
+
+**Note: This is not @Martadas's bot code anymore, there will be features that were included in the You can't do Part.**
+`That's called! stealing!! Stop!!`
+**I know it's stealing, but today i decided to edit the code, adding features. No time for your drama, go use your brain you dumb moron.**
+
